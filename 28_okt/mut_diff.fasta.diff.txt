@@ -1,0 +1,89 @@
+########################################
+# Program: needle
+# Rundate: Mon 28 Oct 2019 18:06:47
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20191028-180644-0081-91201947-p2m.asequence
+#    -bsequence emboss_needle-I20191028-180644-0081-91201947-p2m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: SHH-DNA-turtle
+# 2: SHH-DNA-mut-turtle
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 570
+# Identity:     558/570 (97.9%)
+# Similarity:   558/570 (97.9%)
+# Gaps:           0/570 ( 0.0%)
+# Score: 2742.0
+# 
+#
+#=======================================
+
+SHH-DNA-turtl      1 ATGGACGAGATGCTGCTGCTGACCAGGATCCTGCTGGTGGGCTTCATCTG     50
+                     ||||||||||||||||||||||||||||||||||||||||..||||||||
+SHH-DNA-mut-t      1 ATGGACGAGATGCTGCTGCTGACCAGGATCCTGCTGGTGGTTTTCATCTG     50
+
+SHH-DNA-turtl     51 CGGCCTGCTGGTGAGCAGCGGCCTGACCTGCGGCCCCGGCAGGGGCATCG    100
+                     ||||||||||||||||||||||||||||||||||||||||||.|||||||
+SHH-DNA-mut-t     51 CGGCCTGCTGGTGAGCAGCGGCCTGACCTGCGGCCCCGGCAGCGGCATCG    100
+
+SHH-DNA-turtl    101 GCAAGAGGAGGCACCCCAAGAAGCTGACCCCCCTGGCCTACAAGCAGTTC    150
+                     ||||||.||||||||||||||||||||||.||||||||||.|||||||||
+SHH-DNA-mut-t    101 GCAAGAAGAGGCACCCCAAGAAGCTGACCTCCCTGGCCTATAAGCAGTTC    150
+
+SHH-DNA-turtl    151 ATCCCCAACGTGGCCGAGAAGACCCTGGGCGCCAGCGGCAGGTACGAGGG    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+SHH-DNA-mut-t    151 ATCCCCAACGTGGCCGAGAAGACCCTGGGCGCCAGCGGCAGGTACGAGGG    200
+
+SHH-DNA-turtl    201 CAAGATCAGCAGGAACAGCGAGAGGTTCAAGGAGCTGACCCCCAACTACA    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+SHH-DNA-mut-t    201 CAAGATCAGCAGGAACAGCGAGAGGTTCAAGGAGCTGACCCCCAACTACA    250
+
+SHH-DNA-turtl    251 ACCCCGACATCATCTTCAAGGACGAGGAGAACACCGGCGCCGACAGGCTG    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+SHH-DNA-mut-t    251 ACCCCGACATCATCTTCAAGGACGAGGAGAACACCGGCGCCGACAGGCTG    300
+
+SHH-DNA-turtl    301 ATGACCCAGAGGTGCAAGGACAAGCTGAACGCCCTGGCCATCAGCGTGAT    350
+                     |||||||||||||||||||||||||||||||||||.||||||||||||||
+SHH-DNA-mut-t    301 ATGACCCAGAGGTGCAAGGACAAGCTGAACGCCCTAGCCATCAGCGTGAT    350
+
+SHH-DNA-turtl    351 GAACCAGTGGCCCGGCGTGAAGCTGAGGGTGACCGAGGGCTGGGACGAGG    400
+                     ..||||||||||||||||||||||||||||||||||||||||||||||||
+SHH-DNA-mut-t    351 ATACCAGTGGCCCGGCGTGAAGCTGAGGGTGACCGAGGGCTGGGACGAGG    400
+
+SHH-DNA-turtl    401 ACGGCCACCACAGCGAGGAGAGCCTGCACTACGAGGGCAGGGCCGTGGAC    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+SHH-DNA-mut-t    401 ACGGCCACCACAGCGAGGAGAGCCTGCACTACGAGGGCAGGGCCGTGGAC    450
+
+SHH-DNA-turtl    451 ATCACCACCAGCGACAGGGACAGGAGCAAGTACGGCATGCTGGCCAGGCT    500
+                     |||||||||||||||||||||.|||||||||||.||||||||||||||||
+SHH-DNA-mut-t    451 ATCACCACCAGCGACAGGGACCGGAGCAAGTACCGCATGCTGGCCAGGCT    500
+
+SHH-DNA-turtl    501 GGCCGTGGAGGCCGGCTTCGACTGGGTGTACTACGAGAGCAAGGCCCACA    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+SHH-DNA-mut-t    501 GGCCGTGGAGGCCGGCTTCGACTGGGTGTACTACGAGAGCAAGGCCCACA    550
+
+SHH-DNA-turtl    551 TCCACTGCAGCGTGAAGGCC    570
+                     |||||||||||||||||.||
+SHH-DNA-mut-t    551 TCCACTGCAGCGTGAAGACC    570
+
+
+#---------------------------------------
+#---------------------------------------
